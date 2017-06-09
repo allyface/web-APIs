@@ -86,7 +86,7 @@ These are the basic specs for "Web APIs". If you complete these specs, try takin
 - [x] App provide a command to start the web server
 - [x] README includes "Getting Started" instructions
 - [x] "Getting Started" instructs how to install
-- [ ] "Getting Started" instructs how to set up and configure the database
+- [x] "Getting Started" instructs how to set up and configure the database
 - [x] "Getting Started" instructs how to start the server
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license]
 
